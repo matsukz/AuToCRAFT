@@ -5,4 +5,4 @@
 インベントリ左上角のアイテムは手動で移動させる必要があります。（気が向いたら修正）<br>
 実際の座標は自分のPCの座標を参考にしてください。。<br>
 自動操作中はShiftキーを押しっぱなしにしておいてください。（気が浮いたら修正）<br>
-<a href="https://github.com/asweigart/pyautogui">pyautogui</a>が必要です。
+[pyautogui](https://github.com/asweigart/pyautogui)が必要です。
